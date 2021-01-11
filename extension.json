@@ -1,0 +1,13 @@
+{
+  "code": "thoughtco.cutlery",
+  "name": "Cutlery",
+  "description": "Adds a cutlery field to the checkout",
+  "version": "1.0",
+  "author": "ryanmitchell",
+  "icon": {
+    "class": "fa fa-cutlery",
+    "backgroundColor": "#111",
+    "color": "#FFF"
+  },
+  "homepage": "https://github.com/thoughtco/ti-ext-cutlery"
+}
