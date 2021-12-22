@@ -1,0 +1,25 @@
+{
+   "name": "thoughtco/ti-ext-cutlery",
+   "type": "tastyigniter-extension",
+   "description": "Adds a cutlery field to the checkout",
+   "license": "MIT",
+   "authors": [
+     {
+       "name": "Ryan Mitchell",
+       "email": "ryan@thoughtcollective.com"
+     }
+   ],
+   "extra": {
+     "tastyigniter-extension": {
+       "code": "thoughtco.cutlery",
+       "name": "Cutlery",
+       "icon": {
+         "class": "fa fa-cutlery",
+         "color": "#FFF",
+         "backgroundColor": "#111"
+       },
+       "homepage": "https://github.com/thoughtco/ti-ext-cutlery",
+       "require": {}
+     }
+   }
+ }
